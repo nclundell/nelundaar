@@ -14,8 +14,7 @@ Team.create([
     nickname:   "Falcons",
     city:       "Colorado Springs",
     state:      "Colorado",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#0032a0",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/air-force.svg"
   },
   {
@@ -25,8 +24,7 @@ Team.create([
     nickname:   "Zips",
     city:       "Akron",
     state:      "Ohio",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#041e42",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/akron.svg"
   },
   {
@@ -36,9 +34,18 @@ Team.create([
     nickname:   "Crimson Tide",
     city:       "Tuscaloosa",
     state:      "Alabama",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#9d2235",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/alabama.svg"
+  },
+  {
+    name:       "University of Alabama at Birmingham",
+    name_short: "UAB",
+    abbrev:     "UAB",
+    nickname:   "Blazers",
+    city:       "Birmingham",
+    state:      "Alabama",
+    color:      "#006341",
+    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/uab.svg"
   },
   {
     name:       "Appalachian State University",
@@ -47,8 +54,7 @@ Team.create([
     nickname:   "Mountaineers",
     city:       "Boone",
     state:      "North Carolina",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#010101",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/appalachian-st.svg"
   },
   {
@@ -58,8 +64,7 @@ Team.create([
     nickname:   "Wildcats",
     city:       "Tuscon",
     state:      "Arizona",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#00205b",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/arizona.svg"
   },
   {
@@ -69,8 +74,7 @@ Team.create([
     nickname:   "Sun Devils",
     city:       "Tempe",
     state:      "Arizona",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#8a0c3c",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/arizona-st.svg"
   },
   {
@@ -80,8 +84,7 @@ Team.create([
     nickname:   "Razorbacks",
     city:       "Fayetteville",
     state:      "Arkansas",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#9d2235",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/arkansas.svg"
   },
   {
@@ -91,8 +94,7 @@ Team.create([
     nickname:   "Red Wolves",
     city:       "Jonesboro",
     state:      "Arkansas",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#c8102e",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/arkansas-st.svg"
   },
   {
@@ -102,8 +104,7 @@ Team.create([
     nickname:   "Black Knights",
     city:       "West Point",
     state:      "New York",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#010101",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/army.svg"
   },
   {
@@ -113,8 +114,7 @@ Team.create([
     nickname:   "Tigers",
     city:       "Auburn",
     state:      "Alabama",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#fa4616",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/auburn.svg"
   },
   {
@@ -124,8 +124,7 @@ Team.create([
     nickname:   "Cardinals",
     city:       "Muncie",
     state:      "Indiana",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#ba0c2f",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/ball-st.svg"
   },
   {
@@ -135,8 +134,7 @@ Team.create([
     nickname:   "Bears",
     city:       "Waco",
     state:      "Texas",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#1b3e30",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/baylor.svg"
   },
   {
@@ -146,8 +144,7 @@ Team.create([
     nickname:   "Broncos",
     city:       "Boise",
     state:      "Idaho",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#0032a0",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/boise-st.svg"
   },
   {
@@ -157,8 +154,7 @@ Team.create([
     nickname:   "Eagles",
     city:       "Chestnut Hill",
     state:      "Massachusetts",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#862633",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/boston-college.svg"
   },
   {
@@ -168,8 +164,7 @@ Team.create([
     nickname:   "Falcons",
     city:       "Bowling Green",
     state:      "Ohio",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#fe5000",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/bowling-green.svg"
   },
   {
@@ -179,8 +174,7 @@ Team.create([
     nickname:   "Bulls",
     city:       "Buffalo",
     state:      "New York",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#0057b8",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/buffalo.svg"
   },
   {
@@ -190,8 +184,7 @@ Team.create([
     nickname:   "Cougars",
     city:       "Provo",
     state:      "Utah",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#213c84",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/byu.svg"
   },
   {
@@ -201,9 +194,28 @@ Team.create([
     nickname:   "Golden Bears",
     city:       "Berkley",
     state:      "California",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#041e42",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/california.svg"
+  },
+  {
+    name:       "University of California, Los Angeles",
+    name_short: "UCLA",
+    abbrev:     "UCLA",
+    nickname:   "Bruins",
+    city:       "Los Angeles",
+    state:      "California",
+    color:      "#0072ce",
+    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/ucla.svg"
+  },
+  {
+    name:       "University of Central Florida",
+    name_short: "UCF",
+    abbrev:     "UCF",
+    nickname:   "Knights",
+    city:       "Orlando",
+    state:      "Florida",
+    color:      "#010101",
+    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/ucf.svg"
   },
   {
     name:       "Central Michigan University",
@@ -212,8 +224,7 @@ Team.create([
     nickname:   "Chippewas",
     city:       "Mount Pleasant",
     state:      "Michigan",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#6f263d",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/central-mich.svg"
   },
   {
@@ -223,8 +234,7 @@ Team.create([
     nickname:   "49ers",
     city:       "Charlotte",
     state:      "North Carolina",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#124d39",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/charlotte.svg"
   },
   {
@@ -234,8 +244,7 @@ Team.create([
     nickname:   "Bearcats",
     city:       "Cincinnati",
     state:      "Ohio",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#c8102e",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/cincinnati.svg"
   },
   {
@@ -245,8 +254,7 @@ Team.create([
     nickname:   "Tigers",
     city:       "Clemson",
     state:      "South Carolina",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#ff6720",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/clemson.svg"
   },
   {
@@ -256,8 +264,7 @@ Team.create([
     nickname:   "Chanticleers",
     city:       "Conway",
     state:      "South Carolina",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#007377",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/coastal-caro.svg"
   },
   {
@@ -267,8 +274,7 @@ Team.create([
     nickname:   "Buffaloes",
     city:       "Boulder",
     state:      "Colorado",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#010101",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/colorado.svg"
   },
   {
@@ -278,9 +284,18 @@ Team.create([
     nickname:   "Rams",
     city:       "Fort Collins",
     state:      "Colorado",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#2c5234",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/colorado-st.svg"
+  },
+  {
+    name:       "University of Connecticut",
+    name_short: "UConn",
+    abbrev:     "UCONN",
+    nickname:   "Huskies",
+    city:       "Storrs",
+    state:      "Connecticut",
+    color:      "#0c2340",
+    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/uconn.svg"
   },
   {
     name:       "Duke University",
@@ -289,8 +304,7 @@ Team.create([
     nickname:   "Blue Devils",
     city:       "Durham",
     state:      "North Carolina",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#002d72",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/duke.svg"
   },
   {
@@ -300,8 +314,7 @@ Team.create([
     nickname:   "Pirates",
     city:       "Greensville",
     state:      "North Carolina",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#582c83",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/east-carolina.svg"
   },
   {
@@ -311,8 +324,7 @@ Team.create([
     nickname:   "Eagles",
     city:       "Ypsilanti",
     state:      "Michigan",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#046a38",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/eastern-mich.svg"
   },
   {
@@ -322,8 +334,7 @@ Team.create([
     nickname:   "Panthers",
     city:       "Miami",
     state:      "Florida",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#041e42",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/fiu.svg"
   },
   {
@@ -333,8 +344,7 @@ Team.create([
     nickname:   "Gators",
     city:       "Gainesville",
     state:      "Florida",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#003087",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/florida.svg"
   },
   {
@@ -344,8 +354,7 @@ Team.create([
     nickname:   "Owls",
     city:       "Boca Raton",
     state:      "Florida",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#002855",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/fla-atlantic.svg"
   },
   {
@@ -355,8 +364,7 @@ Team.create([
     nickname:   "Seminoles",
     city:       "Tallahassee",
     state:      "Florida",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#76253a",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/florida-st.svg"
   },
   {
@@ -366,8 +374,7 @@ Team.create([
     nickname:   "Bulldogs",
     city:       "Fresno",
     state:      "California",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#d50032",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/fresno-st.svg"
   },
   {
@@ -377,8 +384,7 @@ Team.create([
     nickname:   "Bulldogs",
     city:       "Athens",
     state:      "Georgia",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#da291c",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/georgia.svg"
   },
   {
@@ -388,8 +394,7 @@ Team.create([
     nickname:   "Panthers",
     city:       "Atlanta",
     state:      "Georgia",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#264391",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/georgia-st.svg"
   },
   {
@@ -399,8 +404,7 @@ Team.create([
     nickname:   "Yellow Jackets",
     city:       "Atlanta",
     state:      "Georgia",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#b3a369",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/georgia-tech.svg"
   },
   {
@@ -410,8 +414,7 @@ Team.create([
     nickname:   "Rainbow Warriors",
     city:       "Honolulu",
     state:      "Hawaii",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#154734",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/hawaii.svg"
   },
   {
@@ -421,8 +424,7 @@ Team.create([
     nickname:   "Cougars",
     city:       "Houston",
     state:      "Texas",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#e51636",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/houston.svg"
   },
   {
@@ -432,8 +434,7 @@ Team.create([
     nickname:   "Fighting Illini",
     city:       "Champaign",
     state:      "Illinois",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#e08e39",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/illinois.svg"
   },
   {
@@ -443,8 +444,7 @@ Team.create([
     nickname:   "Hoosiers",
     city:       "Bloomington",
     state:      "Indiana",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#9d2235",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/indiana.svg"
   },
   {
@@ -454,8 +454,7 @@ Team.create([
     nickname:   "Hawkeyes",
     city:       "Iowa City",
     state:      "Iowa",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#010101",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/iowa.svg"
   },
   {
@@ -465,31 +464,28 @@ Team.create([
     nickname:   "Cyclones",
     city:       "Ames",
     state:      "Iowa",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#a6192e",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/iowa-st.svg"
   },
   {
     name:       "Jacksonville State University",
     name_short: "Jacksonville St.",
-    abbrev:     "",
+    abbrev:     "JVST",
     nickname:   "Gamecocks",
     city:       "Jacksonville",
     state:      "Alabama",
-    color_bg:   "",
-    color_fg:   "",
-    logo_url:   ""
+    color:      "#c8102e",
+    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/jacksonville-st.svg"
   },
   {
     name:       "James Madison University",
     name_short: "James Madison",
-    abbrev:     "",
+    abbrev:     "JMU",
     nickname:   "Dukes",
     city:       "Harrisonburg",
     state:      "Virginia",
-    color_bg:   "",
-    color_fg:   "",
-    logo_url:   ""
+    color:      "#330072",
+    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/james-madison.svg"
   },
   {
     name:       "University of Kansas",
@@ -498,8 +494,7 @@ Team.create([
     nickname:   "Jaykawks",
     city:       "Lawrence",
     state:      "Kansas",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#1967b8",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/kansas.svg"
   },
   {
@@ -509,8 +504,7 @@ Team.create([
     nickname:   "Wildcats",
     city:       "Manhattan",
     state:      "Kansas",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#582c83",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/kansas-st.svg"
   },
   {
@@ -520,8 +514,7 @@ Team.create([
     nickname:   "Golden Flashes",
     city:       "Kent",
     state:      "Ohio",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#00205b",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/kent-st.svg"
   },
   {
@@ -531,8 +524,7 @@ Team.create([
     nickname:   "Wildcats",
     city:       "Lexington",
     state:      "Kentucky",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#3258af",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/kentucky.svg"
   },
   {
@@ -542,8 +534,7 @@ Team.create([
     nickname:   "Flames",
     city:       "Lynchburg",
     state:      "Virginia",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#971a1f",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/liberty.svg"
   },
   {
@@ -553,8 +544,7 @@ Team.create([
     nickname:   "Ragin' Cajuns",
     city:       "Lafayette",
     state:      "Louisiana",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#c8102e",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/la-lafayette.svg"
   },
   {
@@ -564,9 +554,18 @@ Team.create([
     nickname:   "Warhawks",
     city:       "Monroe",
     state:      "Lou",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#6f2c3f",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/la-monroe.svg"
+  },
+  {
+    name:       "Louisiana State University",
+    name_short: "LSU",
+    abbrev:     "LSU",
+    nickname:   "Tigers",
+    city:       "Baton Rouge",
+    state:      "Louisiana",
+    color:      "#582c83",
+    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/lsu.svg"
   },
   {
     name:       "Louisiana Tech University",
@@ -575,8 +574,7 @@ Team.create([
     nickname:   "Bulldogs",
     city:       "Ruston",
     state:      "Louisiana",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#003087",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/louisiana-tech.svg"
   },
   {
@@ -586,20 +584,8 @@ Team.create([
     nickname:   "Cardinals",
     city:       "Louisville",
     state:      "Kentucky",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#ee2722",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/louisville.svg"
-  },
-  {
-    name:       "Louisiana State University",
-    name_short: "LSU",
-    abbrev:     "LSU",
-    nickname:   "Tigers",
-    city:       "Baton Rouge",
-    state:      "Louisiana",
-    color_bg:   "",
-    color_fg:   "",
-    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/lsu.svg"
   },
   {
     name:       "Marshall University",
@@ -608,8 +594,7 @@ Team.create([
     nickname:   "Thundering Herd",
     city:       "Huntington",
     state:      "West Virginia",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#00b140",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/marshall.svg"
   },
   {
@@ -619,9 +604,18 @@ Team.create([
     nickname:   "Terrapins",
     city:       "College Park",
     state:      "Maryland",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#c8102e",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/maryland.svg"
+  },
+  {
+    name:       "University of Massachusetts Amherst",
+    name_short: "UMass",
+    abbrev:     "MASS",
+    nickname:   "Minutemen",
+    city:       "Amherst",
+    state:      "Massachusetts",
+    color:      "#732122",
+    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/massachusetts.svg"
   },
   {
     name:       "University of Memphis",
@@ -630,8 +624,7 @@ Team.create([
     nickname:   "Tigers",
     city:       "Memphis",
     state:      "Tennessee",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#173b70",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/memphis.svg"
   },
   {
@@ -641,8 +634,7 @@ Team.create([
     nickname:   "Hurricanes",
     city:       "Coral Gables",
     state:      "Florida",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#154734",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/miami-fl.svg"
   },
   {
@@ -652,8 +644,7 @@ Team.create([
     nickname:   "RedHawks",
     city:       "Oxford",
     state:      "Ohio",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#c8102e",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/miami-oh.svg"
   },
   {
@@ -663,8 +654,7 @@ Team.create([
     nickname:   "Wolverines",
     city:       "Ann Arbor",
     state:      "Michigan",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#041e42",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/michigan.svg"
   },
   {
@@ -674,8 +664,7 @@ Team.create([
     nickname:   "Spartans",
     city:       "East Lansing",
     state:      "Michigan",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#173f35",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/michigan-st.svg"
   },
   {
@@ -685,8 +674,7 @@ Team.create([
     nickname:   "Blue Raiders",
     city:       "Murfreesboro",
     state:      "Tennessee",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#006fab",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/middle-tenn.svg"
   },
   {
@@ -696,8 +684,7 @@ Team.create([
     nickname:   "Golden Gophers",
     city:       "Minneapolis",
     state:      "Minnesota",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#861f41",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/minnesota.svg"
   },
   {
@@ -707,8 +694,7 @@ Team.create([
     nickname:   "Bulldogs",
     city:       "Starkville",
     state:      "Mississippi",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#491a22",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/mississippi-st.svg"
   },
   {
@@ -718,8 +704,7 @@ Team.create([
     nickname:   "Tigers",
     city:       "Columbia",
     state:      "Missouri",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#010101",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/missouri.svg"
   },
   {
@@ -729,9 +714,18 @@ Team.create([
     nickname:   "Midshipmen",
     city:       "Annapolis",
     state:      "Maryland",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#00205b",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/navy.svg"
+  },
+  {
+    name:       "University of North Carolina",
+    name_short: "North Carolina",
+    abbrev:     "UNC",
+    nickname:   "Tar Heels",
+    city:       "Chapel Hill",
+    state:      "North Carolina",
+    color:      "#7bafd4",
+    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/north-carolina.svg"
   },
   {
     name:       "North Carolina State University",
@@ -740,8 +734,7 @@ Team.create([
     nickname:   "Wolfpack",
     city:       "Raleigh",
     state:      "North Carolina",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#c8102e",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/north-carolina-st.svg"
   },
   {
@@ -751,8 +744,7 @@ Team.create([
     nickname:   "Cornhuskers",
     city:       "Lincoln",
     state:      "Nebraska",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#c8102e",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/nebraska.svg"
   },
   {
@@ -762,9 +754,18 @@ Team.create([
     nickname:   "Wolf Pack",
     city:       "Reno",
     state:      "Nevada",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#041e42",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/nevada.svg"
+  },
+  {
+    name:       "University of Nevada, Las Vegas",
+    name_short: "UNLV",
+    abbrev:     "UNLV",
+    nickname:   "Rebels",
+    city:       "Las Vegas",
+    state:      "Nevada",
+    color:      "#c8102e",
+    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/unlv.svg"
   },
   {
     name:       "University of New Mexico",
@@ -773,8 +774,7 @@ Team.create([
     nickname:   "Lobos",
     city:       "Albuquerque",
     state:      "New Mexico",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#ba0c2f",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/new-mexico.svg"
   },
   {
@@ -784,20 +784,8 @@ Team.create([
     nickname:   "Aggies",
     city:       "Las Cruces",
     state:      "New Mexico",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#891619",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/new-mexico-st.svg"
-  },
-  {
-    name:       "University of North Carolina",
-    name_short: "North Carolina",
-    abbrev:     "UNC",
-    nickname:   "Tar Heels",
-    city:       "Chapel Hill",
-    state:      "North Carolina",
-    color_bg:   "",
-    color_fg:   "",
-    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/north-carolina.svg"
   },
   {
     name:       "University of North Texas",
@@ -806,8 +794,7 @@ Team.create([
     nickname:   "Mean Green",
     city:       "Denton",
     state:      "Texas",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#007a33",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/north-texas.svg"
   },
   {
@@ -817,8 +804,7 @@ Team.create([
     nickname:   "Huskies",
     city:       "De Kalb",
     state:      "Illinois",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#ba0c2f",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/northern-ill.svg"
   },
   {
@@ -828,8 +814,7 @@ Team.create([
     nickname:   "Wildcats",
     city:       "Evanston",
     state:      "Illinois",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#4e2a84",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/northwestern.svg"
   },
   {
@@ -839,8 +824,7 @@ Team.create([
     nickname:   "Fighting Irish",
     city:       "South Bend",
     state:      "Indiana",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#0c2340",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/notre-dame.svg"
   },
   {
@@ -850,8 +834,7 @@ Team.create([
     nickname:   "Bobcats",
     city:       "Athens",
     state:      "Ohio",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#2c5234",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/ohio.svg"
   },
   {
@@ -861,8 +844,7 @@ Team.create([
     nickname:   "Buckeyes",
     city:       "Columbus",
     state:      "Ohio",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#ce0f3e",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/ohio-st.svg"
   },
   {
@@ -872,8 +854,7 @@ Team.create([
     nickname:   "Sooners",
     city:       "Norman",
     state:      "Oklahoma",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#9d2235",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/oklahoma.svg"
   },
   {
@@ -883,8 +864,7 @@ Team.create([
     nickname:   "Cowboys",
     city:       "Stillwater",
     state:      "Oklahoma",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#df4f2a",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/oklahoma-st.svg"
   },
   {
@@ -894,8 +874,7 @@ Team.create([
     nickname:   "Monarchs",
     city:       "Norfolk",
     state:      "Virginia",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#0b4071",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/old-dominion.svg"
   },
   {
@@ -905,8 +884,7 @@ Team.create([
     nickname:   "Rebels",
     city:       "University",
     state:      "Mississippi",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#c8102e",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/ole-miss.svg"
   },
   {
@@ -916,8 +894,7 @@ Team.create([
     nickname:   "Ducks",
     city:       "Eugene",
     state:      "Oregon",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#173f35",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/oregon.svg"
   },
   {
@@ -927,8 +904,7 @@ Team.create([
     nickname:   "Beavers",
     city:       "Corvallis",
     state:      "Oregon",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#dc4405",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/oregon-st.svg"
   },
   {
@@ -938,8 +914,7 @@ Team.create([
     nickname:   "Nittany Lions",
     city:       "University Park",
     state:      "Pennsylvania",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#041e42",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/penn-st.svg"
   },
   {
@@ -949,8 +924,7 @@ Team.create([
     nickname:   "Panthers",
     city:       "Pittsburgh",
     state:      "Pennsylvania",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#003594",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/pittsburgh.svg"
   },
   {
@@ -960,8 +934,7 @@ Team.create([
     nickname:   "Boilermakers",
     city:       "West Lafayette",
     state:      "Indiana",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#010101",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/purdue.svg"
   },
   {
@@ -971,8 +944,7 @@ Team.create([
     nickname:   "Owls",
     city:       "Houston",
     state:      "Texas",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#00205b",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/rice.svg"
   },
   {
@@ -982,20 +954,18 @@ Team.create([
     nickname:   "Scarlet Knights",
     city:       "New Brunswick",
     state:      "New Jersey",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#c8102e",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/rutgers.svg"
   },
   {
     name:       "Sam Houston State University",
     name_short: "Sam Houston",
-    abbrev:     "",
+    abbrev:     "SHSU",
     nickname:   "Bearkats",
     city:       "Huntsville",
     state:      "Texas",
-    color_bg:   "",
-    color_fg:   "",
-    logo_url:   ""
+    color:      "#df502a",
+    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/sam-houston-st.svg"
   },
   {
     name:       "San Diego State University",
@@ -1004,8 +974,7 @@ Team.create([
     nickname:   "Aztecs",
     city:       "San Diego",
     state:      "California",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#a6192e",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/san-diego-st.svg"
   },
   {
@@ -1015,20 +984,8 @@ Team.create([
     nickname:   "Spartans",
     city:       "San Jose",
     state:      "California",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#0032a0",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/san-jose-st.svg"
-  },
-  {
-    name:       "Southern Methodist University",
-    name_short: "SMU",
-    abbrev:     "SMU",
-    nickname:   "Mustangs",
-    city:       "University Park",
-    state:      "Texas",
-    color_bg:   "",
-    color_fg:   "",
-    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/smu.svg"
   },
   {
     name:       "University of South Alabama",
@@ -1037,8 +994,7 @@ Team.create([
     nickname:   "Jaguars",
     city:       "Mobile",
     state:      "Alabama",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#bf0d3e",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/south-ala.svg"
   },
   {
@@ -1048,8 +1004,7 @@ Team.create([
     nickname:   "Gamecocks",
     city:       "Columbia",
     state:      "South Carolina",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#862633",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/south-carolina.svg"
   },
   {
@@ -1059,9 +1014,28 @@ Team.create([
     nickname:   "Bulls",
     city:       "Tampa",
     state:      "Florida",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#006747",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/south-fla.svg"
+  },
+  {
+    name:       "University of Southern California",
+    name_short: "USC",
+    abbrev:     "USC",
+    nickname:   "Trojans",
+    city:       "Los Angeles",
+    state:      "California",
+    color:      "#9d2235",
+    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/southern-california.svg"
+  },
+  {
+    name:       "Southern Methodist University",
+    name_short: "SMU",
+    abbrev:     "SMU",
+    nickname:   "Mustangs",
+    city:       "University Park",
+    state:      "Texas",
+    color:      "#c8102e",
+    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/smu.svg"
   },
   {
     name:       "University of Southern Mississippi",
@@ -1070,8 +1044,7 @@ Team.create([
     nickname:   "Golden Eagles",
     city:       "Hattiesburg",
     state:      "Mississippi",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#010101",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/southern-miss.svg"
   },
   {
@@ -1081,8 +1054,7 @@ Team.create([
     nickname:   "Cardinal",
     city:       "Stanford",
     state:      "California",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#9d2235",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/stanford.svg"
   },
   {
@@ -1092,8 +1064,7 @@ Team.create([
     nickname:   "Orange",
     city:       "Syracuse",
     state:      "New York",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#dc4405",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/syracuse.svg"
   },
   {
@@ -1103,8 +1074,7 @@ Team.create([
     nickname:   "Horned Frogs",
     city:       "Fort Worth",
     state:      "Texas",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#582c83",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/tcu.svg"
   },
   {
@@ -1114,185 +1084,28 @@ Team.create([
     nickname:   "Owls",
     city:       "Philidelphia",
     state:      "Pennsylvania",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#b30838",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/temple.svg"
   },
   {
     name:       "University of Tennessee",
     name_short: "Tennessee",
-    abbrev:     "",
+    abbrev:     "TENN",
     nickname:   "Volunteers",
     city:       "Knoxville",
     state:      "Tennessee",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#ff8200",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/tennessee.svg"
   },
   {
     name:       "University of Texas at Austin",
     name_short: "Texas",
-    abbrev:     "",
+    abbrev:     "TEX",
     nickname:   "Longhorns",
     city:       "Austin",
     state:      "Texas",
-    color_bg:   "",
-    color_fg:   "",
+    color:      "#ff8200",
     logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/texas.svg"
-  },
-  {
-    name:       "Texas A&M University",
-    name_short: "Texas A&M",
-    abbrev:     "",
-    nickname:   "Aggies",
-    city:       "College Station",
-    state:      "Texas",
-    color_bg:   "",
-    color_fg:   "",
-    logo_url:   ""
-  },
-  {
-    name:       "Texas State University",
-    name_short: "Texas State",
-    abbrev:     "",
-    nickname:   "Bobcats",
-    city:       "San Marcos",
-    state:      "Texas",
-    color_bg:   "",
-    color_fg:   "",
-    logo_url:   ""
-  },
-  {
-    name:       "Texas Tech University",
-    name_short: "Texas Tech",
-    abbrev:     "",
-    nickname:   "Red Raiders",
-    city:       "Lubbock",
-    state:      "Texas",
-    color_bg:   "",
-    color_fg:   "",
-    logo_url:   ""
-  },
-  {
-    name:       "University of Toledo",
-    name_short: "Toledo",
-    abbrev:     "",
-    nickname:   "Rockets",
-    city:       "Toledo",
-    state:      "Ohio",
-    color_bg:   "",
-    color_fg:   "",
-    logo_url:   ""
-  },
-  {
-    name:       "Troy University",
-    name_short: "Troy",
-    abbrev:     "",
-    nickname:   "Trojans",
-    city:       "Troy",
-    state:      "Alabama",
-    color_bg:   "",
-    color_fg:   "",
-    logo_url:   ""
-  },
-  {
-    name:       "Tulane University",
-    name_short: "Tulane",
-    abbrev:     "",
-    nickname:   "Green Wave",
-    city:       "New Orleans",
-    state:      "Louisiana",
-    color_bg:   "",
-    color_fg:   "",
-    logo_url:   ""
-  },
-  {
-    name:       "University of Tulsa",
-    name_short: "Tulsa",
-    abbrev:     "",
-    nickname:   "Golden Hurricane",
-    city:       "Tulsa",
-    state:      "Oklahoma",
-    color_bg:   "",
-    color_fg:   "",
-    logo_url:   ""
-  },
-  {
-    name:       "University of Alabama at Birmingham",
-    name_short: "UAB",
-    abbrev:     "UAB",
-    nickname:   "Blazers",
-    city:       "Birmingham",
-    state:      "Alabama",
-    color_bg:   "",
-    color_fg:   "",
-    logo_url:   ""
-  },
-  {
-    name:       "University of Central Florida",
-    name_short: "UCF",
-    abbrev:     "UCF",
-    nickname:   "Knights",
-    city:       "Orlando",
-    state:      "Florida",
-    color_bg:   "",
-    color_fg:   "",
-    logo_url:   ""
-  },
-  {
-    name:       "University of California, Los Angeles",
-    name_short: "UCLA",
-    abbrev:     "UCLA",
-    nickname:   "Bruins",
-    city:       "Los Angeles",
-    state:      "California",
-    color_bg:   "",
-    color_fg:   "",
-    logo_url:   ""
-  },
-  {
-    name:       "University of Connecticut",
-    name_short: "UConn",
-    abbrev:     "UCONN",
-    nickname:   "Huskies",
-    city:       "Storrs",
-    state:      "Connecticut",
-    color_bg:   "",
-    color_fg:   "",
-    logo_url:   ""
-  },
-  {
-    name:       "University of Massachusetts Amherst",
-    name_short: "UMass",
-    abbrev:     "",
-    nickname:   "Minutemen",
-    city:       "Amherst",
-    state:      "Massachusetts",
-    color_bg:   "",
-    color_fg:   "",
-    logo_url:   ""
-  },
-  {
-    name:       "University of Nevada, Las Vegas",
-    name_short: "UNLV",
-    abbrev:     "UNLV",
-    nickname:   "Rebels",
-    city:       "Las Vegas",
-    state:      "Nevada",
-    color_bg:   "",
-    color_fg:   "",
-    logo_url:   ""
-  },
-  {
-    name:       "University of Southern California",
-    name_short: "USC",
-    abbrev:     "USC",
-    nickname:   "Trojans",
-    city:       "Los Angeles",
-    state:      "California",
-    color_bg:   "",
-    color_fg:   "",
-    logo_url:   ""
   },
   {
     name:       "University of Texas at El Paso",
@@ -1301,9 +1114,8 @@ Team.create([
     nickname:   "Miners",
     city:       "El Paso",
     state:      "Texas",
-    color_bg:   "",
-    color_fg:   "",
-    logo_url:   ""
+    color:      "#041e42",
+    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/utep.svg"
   },
   {
     name:       "University of Texas at San Antonio",
@@ -1312,64 +1124,128 @@ Team.create([
     nickname:   "Roadrunners",
     city:       "San Antonio",
     state:      "Texas",
-    color_bg:   "",
-    color_fg:   "",
-    logo_url:   ""
+    color:      "#0c2340",
+    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/utsa.svg"
+  },
+  {
+    name:       "Texas A&M University",
+    name_short: "Texas A&M",
+    abbrev:     "TA&M",
+    nickname:   "Aggies",
+    city:       "College Station",
+    state:      "Texas",
+    color:      "#500000",
+    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/texas-am.svg"
+  },
+  {
+    name:       "Texas State University",
+    name_short: "Texas State",
+    abbrev:     "TXST",
+    nickname:   "Bobcats",
+    city:       "San Marcos",
+    state:      "Texas",
+    color:      "#572932",
+    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/texas-st.svg"
+  },
+  {
+    name:       "Texas Tech University",
+    name_short: "Texas Tech",
+    abbrev:     "TTU",
+    nickname:   "Red Raiders",
+    city:       "Lubbock",
+    state:      "Texas",
+    color:      "#ed1f2a",
+    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/texas-tech.svg"
+  },
+  {
+    name:       "University of Toledo",
+    name_short: "Toledo",
+    abbrev:     "TOL",
+    nickname:   "Rockets",
+    city:       "Toledo",
+    state:      "Ohio",
+    color:      "#00205b",
+    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/toledo.svg"
+  },
+  {
+    name:       "Troy University",
+    name_short: "Troy",
+    abbrev:     "TROY",
+    nickname:   "Trojans",
+    city:       "Troy",
+    state:      "Alabama",
+    color:      "#9d2235",
+    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/troy.svg"
+  },
+  {
+    name:       "Tulane University",
+    name_short: "Tulane",
+    abbrev:     "TULN",
+    nickname:   "Green Wave",
+    city:       "New Orleans",
+    state:      "Louisiana",
+    color:      "#006747",
+    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/tulane.svg"
+  },
+  {
+    name:       "University of Tulsa",
+    name_short: "Tulsa",
+    abbrev:     "TLSA",
+    nickname:   "Golden Hurricane",
+    city:       "Tulsa",
+    state:      "Oklahoma",
+    color:      "#002d72",
+    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/tulsa.svg"
   },
   {
     name:       "University of Utah",
     name_short: "Utah",
-    abbrev:     "",
+    abbrev:     "UTAH",
     nickname:   "Utes",
     city:       "Salt Lake City",
     state:      "Utah",
-    color_bg:   "",
-    color_fg:   "",
-    logo_url:   ""
+    color:      "#d42331",
+    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/utah.svg"
   },
   {
     name:       "Utah State University",
     name_short: "Utah St.",
-    abbrev:     "",
+    abbrev:     "USU",
     nickname:   "Aggies",
     city:       "Logan",
     state:      "Utah",
-    color_bg:   "",
-    color_fg:   "",
-    logo_url:   ""
+    color:      "#00263a",
+    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/utah-st.svg"
   },
   {
     name:       "Vanderbilt University",
     name_short: "Vanderbilt",
-    abbrev:     "",
+    abbrev:     "VAN",
     nickname:   "Commodores",
     city:       "Nashville",
     state:      "Tennessee",
-    color_bg:   "",
-    color_fg:   "",
-    logo_url:   ""
+    color:      "#010101",
+    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/vanderbilt.svg"
   },
   {
     name:       "University of Virginia",
     name_short: "Virginia",
-    abbrev:     "",
+    abbrev:     "UVA",
     nickname:   "Cavaliers",
     city:       "Charlottesville",
     state:      "Virginia",
-    color_bg:   "",
-    color_fg:   "",
-    logo_url:   ""
+    color:      "#232d4b",
+    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/virginia.svg"
   },
   {
     name:       "Virginia Tech",
     name_short: "Virginia Tech",
-    abbrev:     "",
+    abbrev:     "VT",
     nickname:   "Hokies",
     city:       "Blacksburg",
     state:      "Virginia",
-    color_bg:   "",
-    color_fg:   "",
-    logo_url:   ""
+    color:      "#861f41",
+    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/virginia-tech.svg"
   },
   {
     name:       "Wake Forest University",
@@ -1378,85 +1254,77 @@ Team.create([
     nickname:   "Demon Deacons",
     city:       "Winston-Salem",
     state:      "North Carolina",
-    color_bg:   "",
-    color_fg:   "",
-    logo_url:   ""
+    color:      "#010101",
+    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/wake-forest.svg"
   },
   {
     name:       "University of Washington",
     name_short: "Washington",
-    abbrev:     "",
+    abbrev:     "WASH",
     nickname:   "Huskies",
     city:       "Seattle",
     state:      "Washington",
-    color_bg:   "",
-    color_fg:   "",
-    logo_url:   ""
+    color:      "#33006f",
+    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/washington.svg"
   },
   {
     name:       "Washington State University",
     name_short: "Washington St.",
-    abbrev:     "",
+    abbrev:     "WSU",
     nickname:   "Cougars",
     city:       "Pullman",
     state:      "Washington",
-    color_bg:   "",
-    color_fg:   "",
-    logo_url:   ""
+    color:      "#9d2235",
+    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/washington-st.svg"
   },
   {
     name:       "West Virginia University",
     name_short: "W. Virginia",
-    abbrev:     "",
+    abbrev:     "WVU",
     nickname:   "Mountaineers",
     city:       "Morgantown",
     state:      "West Virginia",
-    color_bg:   "",
-    color_fg:   "",
-    logo_url:   ""
+    color:      "#002855",
+    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/west-virginia.svg"
   },
   {
     name:       "Western Kentucky University",
     name_short: "W. Kentucky",
-    abbrev:     "",
+    abbrev:     "WKU",
     nickname:   "Hilltoppers",
     city:       "Bowling Green",
     state:      "Kentucky",
-    color_bg:   "",
-    color_fg:   "",
-    logo_url:   ""
+    color:      "#c8102e",
+    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/western-ky.svg"
   },
   {
     name:       "Western Michigan University",
     name_short: "W. Michigan",
-    abbrev:     "",
+    abbrev:     "WMU",
     nickname:   "Broncos",
     city:       "Kalamazoo",
     state:      "Michigan",
-    color_bg:   "",
-    color_fg:   "",
-    logo_url:   ""
+    color:      "#3b1c0e",
+    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/western-mich.svg"
   },
   {
     name:       "University of Wisconsin, Madison",
     name_short: "Wisconsin",
-    abbrev:     "",
+    abbrev:     "WISC",
     nickname:   "Badgers",
     city:       "Madison",
     state:      "Wisconsin",
-    color_bg:   "",
-    color_fg:   "",
-    logo_url:   ""
+    color:      "#ba0c2f",
+    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/wisconsin.svg"
   },
   {
     name:       "University of Wyoming",
     name_short: "Wyoming",
-    abbrev:     "",
+    abbrev:     "WYO",
     nickname:   "Cowboys",
     city:       "Laramie",
     state:      "Wyoming",
-    color_bg:   "",
-    color_fg:   "",
-    logo_url:   ""
+    color:      "#4e3629",
+    logo_url:   "https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/wyoming.svg"
   }
 ])
